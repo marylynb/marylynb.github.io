@@ -1,44 +1,37 @@
 body {
-  background: url(https://c1.staticflickr.com/9/8379/8560039122_f4936d9462_b.jpg);
+  background: url(http://www.photographyblogger.net/wp-content/uploads/2012/04/photo-5-1.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 h1 {
-color: gold;
-font-style: oblique;
+  color: tan;
+  font-style: oblique;
+}
 
- }
- h2{
-   color: gold;
- }
-
-.coolio{
-  color: gold;
+h2 {
+  color: tan;
 
 }
 
-.center-children {
+.center-children{
     text-align: center;
     margin-top: 35px;
 }
 
-#zipcode{ text-alight: relative;
-}
+#zipcode{ text-alight: relative;}
 
-.centerpig{
-    margin-left: 191px;
-}
+.coolio{color: tan;}
 
-.input{
-  display: inline-block;
-}
+.centerpig{margin-left: 191px;}
 
-.links{
-  color: gold;
-}
+.input{display: inline-block;}
 
-.bigbold{
-  font-size: 24;
-}
+.links{color: maroon;}
+
+.bigbold{font-size: 24;}
+
+.size20{font-size: 20;}
+
+.size13{font-size: 13;}
