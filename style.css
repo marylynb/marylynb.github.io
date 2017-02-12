@@ -1,0 +1,43 @@
+body {
+  background: url(https://c1.staticflickr.com/9/8379/8560039122_f4936d9462_b.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+color: gold;
+font-style: oblique;
+
+ }
+ h2{
+   color: gold;
+ }
+
+.coolio{
+  color: gold;
+
+}
+
+.center-children{
+  text-align: center;
+}
+
+#zipcode{ text-alight: relative;
+}
+
+.centerpig{
+    margin-left: 191px;
+}
+
+.input{
+  display: inline-block;
+}
+
+.links{
+  color: gold;
+}
+
+.bigbold{
+  font-size: 24;
+}
